@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Gonsis
 description: Gonsis
 img: assets/img/(1)gnosis/Front.jpg
