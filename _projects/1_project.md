@@ -7,14 +7,8 @@ importance: 1
 category: portforlio
 related_publications: false
 ---
-This project can also be seen in Youtube
+This project can also be seen in <a href='https://www.youtube.com/embed/BU9qfxo5Q_c'>Gonsis</a>.
 
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/BU9qfxo5Q_c" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
