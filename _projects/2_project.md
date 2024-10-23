@@ -4,7 +4,7 @@ title: Golden Screen
 description: Golden Screen
 img: assets/img/(2)goldenscreen/front.jpg
 importance: 2
-category: work
+category: portforlio
 related_publications: false
 ---
 <div class="row mt-3">
