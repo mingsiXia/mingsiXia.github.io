@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: /
 
 profile:
   align: right
@@ -20,5 +20,3 @@ social: true # includes social icons at the bottom of the page
 
 Mingsi was born and raised in China, In 2022, she earned her Bachelor's degree in Product Design from the Central Academy of Fine Arts. Her graduation project was highly regarded, earning both the Dean's Nomination Award and the Best Graduation Project Award. Following her undergraduate studies, she started pursuing her artistic career at the Royal College of Art in the UK in 2023.
 Her creative focus lies in 3d art, with a particular interest in exploring the subtle connections between archetypal symbols, dreams, and the physical body.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
