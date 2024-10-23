@@ -67,4 +67,3 @@ This project can also be seen in <a href='https://www.youtube.com/watch?v=BU9qfx
         {% include figure.liquid loading="eager" path="assets/img/(1)/gnosis-08.png" title="gnosis-08" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-{% endraw %}
