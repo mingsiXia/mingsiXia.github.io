@@ -9,8 +9,11 @@ related_publications: false
 ---
 This project can also be seen in Youtube
 
-{% include video.liquid path="href='https://www.youtube.com/watch?v=BU9qfxo5Q_c" class="img-fluid rounded z-depth-1" %}
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="href='https://www.youtube.com/watch?v=BU9qfxo5Q_c" class="img-fluid rounded z-depth-1" %}
+    </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/(1)gnosis/gnosis-01.jpg" class="img-fluid rounded z-depth-1" %}
