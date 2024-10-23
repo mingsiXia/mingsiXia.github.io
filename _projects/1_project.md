@@ -4,7 +4,7 @@ title: Gonsis
 description: Gonsis
 img: assets/img/(1)gnosis/Front.jpg
 importance: 1
-category: work
+category: portforlio
 related_publications: false
 ---
 This project can also be seen in <a href='https://www.youtube.com/watch?v=BU9qfxo5Q_c'>Gonsis</a>
