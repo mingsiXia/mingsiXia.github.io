@@ -2,7 +2,7 @@
 layout: page
 title: North Wind
 description: North Wind
-img: assets/img/(3)northwind/front.jpg
+img: assets/img/(3)northwind/front.png
 importance: 2
 category: portforlio
 related_publications: false
