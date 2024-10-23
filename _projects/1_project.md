@@ -2,7 +2,7 @@
 layout: page
 title: Gonsis
 description: Gonsis
-img: assets/img/(1)/Front.jpg
+img: assets/img/(1)gnosis/Front.jpg
 importance: 1
 category: work
 related_publications: false
@@ -13,10 +13,6 @@ This project can also be seen in <a href='https://www.youtube.com/watch?v=BU9qfx
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/(1)gnosis/gnosis-01.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
 <div class="row">
