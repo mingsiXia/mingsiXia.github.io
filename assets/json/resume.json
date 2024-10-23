@@ -30,7 +30,7 @@
       "startDate": "2024-03",
       "endDate": "2024-04",
       "summary": " As a team manager of an immersive installation project called Riverside Murmurs, which is exploring the intersection of nature and industrialization along the Thames.Responsible for the conceptualization, 3D scanning and interactive design using Touch Designer.",
-      "highlights": ["3D modelling"]
+      "highlights": ["3D MODELLING"]
     },
     {
       "name": "Long Museum",
@@ -39,7 +39,7 @@
       "startDate": "2023-06-01",
       "endDate": "2023-11-18",
       "summary": " Assisted in the removal of Christian Dior, Designer of Dreams Exhibition, liaised with logistics companies, installation companies and Dior China.Assisted in warehouse management and maintaining.",
-      "highlights": [""]
+      "highlights": ["curation"]
     },
     {
       "name": "Alighieri Conference & Exhibition Co., Ltd.",
@@ -48,7 +48,7 @@
       "startDate": "2022-07-01",
       "endDate": "2022-08-21",
       "summary": " Participated in installing of the SKP Dior VIP salon in Beijing and assisted in completing project approvals and follow up.",
-      "highlights": [""]
+      "highlights": ["curation"]
     },
     {
       "name": "Tianyi Conference & Exhibition Co., Ltd.",
@@ -57,14 +57,14 @@
       "startDate": "2020-06-12",
       "endDate": "2020-09-23",
       "summary": " Assisted with all visual design for the first China International Cultural Tourism Expo.Assisted in the poster design for the launch of the General Meeting of the Shandong Cultural Industry Development Association.Participated in the website design and promotion posters design",
-      "highlights": [""]
+      "highlights": ["curation"]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Royal College of Art, London, The United Kingdom",
-      "location": "London, The United Kingdom",
+      "institution": "Royal College of Art, London, UK",
+      "location": "London, UK",
       "url": "https://www.rca.ac.uk/",
       "area": "School of Art & Humanities",
       "studyType": "Master",
@@ -118,7 +118,7 @@
     {
       "name": "3D modelling",
       "icon": "fa-solid fa-tag",
-      "keywords": []
+      "keywords": [""]
     }
   ],
   "references": [],
