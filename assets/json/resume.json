@@ -36,8 +36,8 @@
       "name": "Long Museum",
       "position": "Intern of Exhibition Assistant ",
       "url": "",
-      "startDate": "2023-06",
-      "endDate": "2023-11",
+      "startDate": "2023-06-01",
+      "endDate": "2023-11-18",
       "summary": " Assisted in the removal of Christian Dior, Designer of Dreams Exhibition, liaised with logistics companies, installation companies and Dior China.Assisted in warehouse management and maintaining.",
       "highlights": [""]
     },
@@ -45,8 +45,8 @@
       "name": "Alighieri Conference & Exhibition Co., Ltd.",
       "position": "Intern of Public Relation event",
       "url": "",
-      "startDate": "2022-07",
-      "endDate": "2022-08",
+      "startDate": "2022-07-01",
+      "endDate": "2022-08-21",
       "summary": " Participated in installing of the SKP Dior VIP salon in Beijing and assisted in completing project approvals and follow up.",
       "highlights": [""]
     },
@@ -54,8 +54,8 @@
       "name": "Tianyi Conference & Exhibition Co., Ltd.",
       "position": "Intern of Design Department ",
       "url": "",
-      "startDate": "2020-06",
-      "endDate": "2020-09",
+      "startDate": "2020-06-12",
+      "endDate": "2020-09-23",
       "summary": " Assisted with all visual design for the first China International Cultural Tourism Expo.Assisted in the poster design for the launch of the General Meeting of the Shandong Cultural Industry Development Association.Participated in the website design and promotion posters design",
       "highlights": [""]
     }
@@ -68,8 +68,8 @@
       "url": "https://www.rca.ac.uk/",
       "area": "School of Art & Humanities",
       "studyType": "Master",
-      "startDate": "2023-09",
-      "endDate": "2024-08",
+      "startDate": "2023-09-01",
+      "endDate": "2024-08-15",
       "courses": ["Art & Humanities"]
     },
     {
@@ -118,14 +118,7 @@
     {
       "name": "3D modelling",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "keywords": []
     }
   ],
   "references": [],
