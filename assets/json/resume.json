@@ -37,8 +37,8 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Royal College of Art, London, The United Kingdom",
-      "location": "London, The United Kingdom",
+      "institution": "Royal College of Art, London, UK",
+      "location": "London, UK",
       "url": "https://www.rca.ac.uk/",
       "area": "School of Art & Humanities",
       "studyType": "Master",
@@ -59,11 +59,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Dean's Nomination Award",
+      "date": "2022",
+      "awarder": "CAFA",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Dean's Nomination AwardDean's Nomination AwardDean's Nomination AwardDean's Nomination Award.'"
+    },
+    {
+      "title": "Excellent Graduation Design of CAFA",
+      "date": "2022",
+      "awarder": "CAFA",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "Excellent Graduation Design of CAFAExcellent Graduation Design of CAFAExcellent Graduation Design of CAFAExcellent Graduation Design of CAFA.'"
     }
   ],
   "certificates": [],
