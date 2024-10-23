@@ -5,7 +5,7 @@ description: Gonsis
 img: assets/img/(1)/Front.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 This project can also be seen in <a href='https://www.youtube.com/watch?v=BU9qfxo5Q_c'>Gonsis</a>
 
