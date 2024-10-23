@@ -14,6 +14,22 @@ related_publications: false
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/(2)golden screen/GOLDENSCREEN-1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/(2)goldenscreen/GOLDENSCREEN-1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/(2)goldenscreen/GOLDENSCREEN-2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/(2)goldenscreen/GOLDENSCREEN-3.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/(2)goldenscreen/GOLDENSCREEN-4.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
