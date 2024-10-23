@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Golden Screen
-description: This project draws inspiration from my childhood experiences with vasovagal syncopecharacterized by sudden vomiting and fainting.The disorder, surrealism, chaos, and despair brought about by this illness are mir-rored and explored within the artwork. Influ-enced by both illness and this artistic work, lplan to create a series of biomorphic organictransformations, exploring the physical andpsychological dimensions of syncope in anartistic manner. The artworks will depict con-torted bodies evolving within illness, leadingviewers through a journey of self-destruction,obscurity,theoppressive and plague like experience.
+description: This project draws inspiration from my childhood experiences with vasovagal syncopecharacterized by sudden vomiting and fainting. The disorder, surrealism, chaos, and despair brought about by this illness are mir-rored and explored within the artwork. In fluenced by both illness and this artistic work, l plan to create a series of biomorphic organic transformations, exploring the physical andpsychological dimensions of syncope in anartistic manner. The artworks will depict contorted bodies evolving within illness, leading viewers through a journey of self-destruction,obscurity,the oppressive and plague like experience.
 img: assets/img/(2)goldenscreen/front.jpg
 importance: 2
 category: portforlio
