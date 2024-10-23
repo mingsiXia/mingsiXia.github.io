@@ -11,15 +11,6 @@ This project can also be seen in <a href='https://www.youtube.com/watch?v=BU9qfx
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/(1)gnosis/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/(1)gnosis/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/(1)gnosis/gnosis-01.jpg" title="gnosis-01" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
