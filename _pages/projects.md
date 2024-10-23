@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Something of my provious experience!
 nav: true
 nav_order: 3
-display_categories: [portforlio, work]
+display_categories: [portforlio, work, exhibition, others]
 horizontal: false
 ---
 
