@@ -3,8 +3,8 @@
     "name": "Mingsi Xia",
     "label": "Artist",
     "image": "",
-    "email": "mingsiXia@gmail.com",
-    "phone": "(86) 18510818472",
+    "email": "mingxixia44@gmail.com",
+    "phone": "(86) 185 1081 8427",
     "url": "https://mingsiXia.github.io/",
     "summary": "A contemporary artist born in China, specializing in 3D art and immersive art forms, aspires to contribute to humanity through advanced creative techniques.",
     "location": {
@@ -22,7 +22,7 @@
       }
     ]
   },
-    "work": [
+  "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -32,12 +32,23 @@
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
-    ],
-  "volunteer": [],
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
   "education": [
     {
-      "institution": "Royal College of Art, London, UK",
-      "location": "London, UK",
+      "institution": "Royal College of Art, London, The United Kingdom",
+      "location": "London, The United Kingdom",
       "url": "https://www.rca.ac.uk/",
       "area": "School of Art & Humanities",
       "studyType": "Master",
@@ -58,22 +69,42 @@
   ],
   "awards": [
     {
-      "title": "Dean's Nomination Award",
-      "date": "2022",
-      "awarder": "CAFA",
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Dean's Nomination AwardDean's Nomination AwardDean's Nomination AwardDean's Nomination Award.'"
-    },
-    {
-      "title": "Excellent Graduation Design of CAFA",
-      "date": "2022",
-      "awarder": "CAFA",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "Excellent Graduation Design of CAFAExcellent Graduation Design of CAFAExcellent Graduation Design of CAFAExcellent Graduation Design of CAFA.'"
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
   "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
   "references": [],
   "projects": [
     {
