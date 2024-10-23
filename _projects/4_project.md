@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vapour Heart
-description: The work is a first-person perspective gameThe dilapidated chemical factory is physically scanned and the ghost-like figures of thetime are restored in 3D in order to achievean overlap between the memory of the pastand the reality of the ruined space.
+description: The work is a first-person perspective game. The dilapidated chemical factory is physically scanned and the ghost like figures of the time are restored in 3D in order to achieve an overlap between the memory of the pastand the reality of the ruined space.
 img: assets/img/(4)vapourheart/front.jpg
 importance: 1
 category: portforlio
