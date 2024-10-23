@@ -1,7 +1,7 @@
 ---
 layout: page
 title: North Wind
-description: North Wind
+description: In China, there still needs to be more atten-tion to the survival of disadvantaged groupsof women. During my time off school, lcrossed paths with the lives of three localwomen in my hometown, a small county inShandong Province. l wanted to use thewind as my main intention and the pain oftheir lives as the main theme of my work.
 img: assets/img/(3)northwind/front.png
 importance: 2
 category: portforlio
