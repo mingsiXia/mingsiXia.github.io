@@ -44,6 +44,16 @@
       "startDate": "2023-09",
       "endDate": "2024-08",
       "courses": ["Art & Humanities"]
+    },
+    {
+      "institution": "Central Academy of Fine Art, Beijing, China",
+      "location": "Beijing, China",
+      "url": "http://global.cafa.edu.cn/",
+      "area": "Fine Arts in Art and Design",
+      "studyType": "Bachelor",
+      "startDate": "2017-09-01",
+      "endDate": "2022-06-01",
+      "courses": ["Product Design"]
     }
   ],
   "awards": [
