@@ -99,7 +99,29 @@
       "summary": "First Prize of Excellent Graduation Design of CAFA."
     }
   ],
-  "certificates": [],
+   "Exhibition": [
+    {
+      "name": "Golden Screen",
+      "date": "2024-06",
+      "issuer": "Mix media & painting 2024, Royal College of Art",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "The North Wind",
+      "date": "2022-06",
+      "issuer": "2022 CAFA Undergraduate Graduation Exhibition, CAFA Art Museum",
+      "url": "https://2022art.cafa.edu.cn/pc/",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Transformation Of Chemical Sites in The Context of Ecological Sustainability",
+      "date": "2022-06",
+      "issuer": "2022 CAFA Undergraduate Group Graduation Exhibition, CAFA Art Museum",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
   "publications": [],
   "skills": [],
   "languages": [
