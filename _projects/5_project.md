@@ -6,11 +6,13 @@ img: assets/img/work/CementField/front.png
 importance: 3
 category: fun
 ---
-●	Craft engaging designs from pointcloud data to convey environmental themes.
-●	Use TouchDesigner tools to convert scans into visual projections.
-●	Work with 3D modelers and other team members to ensure design accuracy and cohesion.
-●	Stay current with visualization technology to enhance installation experiences.
+Craft engaging designs from pointcloud data to convey environmental themes.
+Use TouchDesigner tools to convert scans into visual projections.
+Work with 3D modelers and other team members to ensure design accuracy and cohesion.
+Stay current with visualization technology to enhance installation experiences.
+
 You can also see it in <a href="https://ruartist.wixsite.com/riversidemurmurs">Cement Field Grid</a>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/work/CementField/1.png" title="Cement Field1" class="img-fluid rounded z-depth-1" %}
