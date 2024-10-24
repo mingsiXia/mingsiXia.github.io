@@ -5,6 +5,7 @@ permalink: /projects/
 description: Something of my provious experience!
 nav: true
 nav_order: 3
+cv_pdf: MINGXI_Xia-CV.pdf
 display_categories: [portforlio, work]
 horizontal: false
 ---
