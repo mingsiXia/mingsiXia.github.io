@@ -121,7 +121,7 @@
     {
       "title": "Golden Screen",
       "date": "2024-06",
-      "awarder": "2024, Royal College of Art",
+      "awarder": "Royal College of Art's showcase 2024, Royal College of Art",
       "url": "https://mingsixia.github.io/projects/2_project/",
       "summary": "This project draws inspiration from my childhood experiences with vasovagal syncopecharacterized by sudden vomiting and fainting. The disorder, surrealism, chaos, and despair brought about by this illness are mir-rored and explored within the artwork."
     },
@@ -156,9 +156,9 @@
   ],
   "interests": [
     {
-      "name": "3D modelling",
-      "icon": "fa-solid fa-tag",
-      "keywords": [""]
+      "name": "ART",
+      "icon": "fa-solid fa-brush",
+      "keywords": ["3D production", "virtual reality (VR)", "augmented reality", "vfx effects", "Critical Principle", "augmented reality (AR)"]
     }
   ],
   "references": [],
