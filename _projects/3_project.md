@@ -6,7 +6,7 @@ description: In China, there still needs to be more attention to the survival of
 
 img: assets/img/(3)northwind/front.png
 importance: 2
-category: portforlio
+category: portfolio
 related_publications: false
 ---
 
