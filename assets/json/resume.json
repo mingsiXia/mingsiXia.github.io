@@ -101,25 +101,25 @@
   ],
    "exhibition": [
     {
-      "name": "Golden Screen",
+      "title": "Golden Screen",
       "date": "2024-06",
-      "issuer": "Mix media & painting 2024, Royal College of Art",
+      "awarder": "Mix media & painting 2024, Royal College of Art",
       "url": "",
-      "icon": "fa-solid fa-location-dot"
+      "summary": ""
     },
     {
-      "name": "The North Wind",
+      "title": "The North Wind",
       "date": "2022-06",
-      "issuer": "2022 CAFA Undergraduate Graduation Exhibition, CAFA Art Museum",
+      "awarder": "2022 CAFA Undergraduate Graduation Exhibition, CAFA Art Museum",
       "url": "https://2022art.cafa.edu.cn/pc/infoDetails/1112",
-      "icon": "fa-solid fa-tag"
+      "summary": ""
     },
     {
-      "name": "Transformation Of Chemical Sites in The Context of Ecological Sustainability",
+      "title": "Transformation Of Chemical Sites in The Context of Ecological Sustainability",
       "date": "2022-06",
-      "issuer": "2022 CAFA Undergraduate Group Graduation Exhibition, CAFA Art Museum",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "awarder": "2022 CAFA Undergraduate Group Graduation Exhibition, CAFA Art Museum",
+      "url": "",
+      "summary": ""
     }
   ],
   "publications": [],
