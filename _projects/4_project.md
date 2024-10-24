@@ -4,7 +4,7 @@ title: Vapour Heart
 description: The work is a first-person perspective game. The dilapidated chemical factory is physically scanned and the ghost like figures of the time are restored in 3D in order to achieve an overlap between the memory of the pastand the reality of the ruined space.
 img: assets/img/(4)vapourheart/front.jpg
 importance: 1
-category: portforlio
+category: portfolio
 related_publications: false
 ---
 This project can also be seen in <a href='https://www.youtube.com/embed/IaMjBLou7II'>Vapour Heart</a>.
