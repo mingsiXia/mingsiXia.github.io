@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Cement Field
+
 description: "Riverside Murmurs" is an iterative art project that combines digital and physical installations to tell a story about the Thames riverside. Our aim is to provoke thought on the harmonious and conflicting relationships that have and will continue to shape the river's future.
+
 img: assets/img/work/CementField/front.png
 importance: 3
-category: fun
+category:work
 ---
 Craft engaging designs from pointcloud data to convey environmental themes.
 Use TouchDesigner tools to convert scans into visual projections.
