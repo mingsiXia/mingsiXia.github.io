@@ -2,7 +2,7 @@
 layout: page
 title: Riverside Murmurs
 
-description: 'Riverside Murmurs' is an iterative art project that combines digital and physical installations to tell a story about the Thames riverside. Our aim is to provoke thought on the harmonious and conflicting relationships that have and will continue to shape the river's future.
+description: /'Riverside Murmurs/' is an iterative art project that combines digital and physical installations to tell a story about the Thames riverside. Our aim is to provoke thought on the harmonious and conflicting relationships that have and will continue to shape the river's future.
 
 img: assets/img/work/CementField/front.png
 importance: 2
