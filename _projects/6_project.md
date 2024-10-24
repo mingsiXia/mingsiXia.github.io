@@ -4,7 +4,7 @@ title: Survey of Urban Rights and Practice of Social Space Research Group
 description: /
 img: assets/img/work/urban/1.png
 importance: 4
-category: work
+category: fun
 ---
 
 Participating in the drawing of humanistic map murals.
