@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Cement Field
+title: North Wind
 
-description: "Riverside Murmurs" is an iterative art project that combines digital and physical installations to tell a story about the Thames riverside. Our aim is to provoke thought on the harmonious and conflicting relationships that have and will continue to shape the river's future.
+description: In China, there still needs to be more attention to the survival of disadvantaged groups of women. During my time off school, l crossed paths with the lives of three localwomen in my hometown, a small county in Shandong Province. l wanted to use the wind as my main intention and the pain of their lives as the main theme of my work.
 
 img: assets/img/work/CementField/front.png
-importance: 3
-category:work
+importance: 2
+category: work
+related_publications: false
 ---
 Craft engaging designs from pointcloud data to convey environmental themes.
 Use TouchDesigner tools to convert scans into visual projections.
