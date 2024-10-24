@@ -30,7 +30,7 @@
       "startDate": "2024-03",
       "endDate": "2024-04",
       "summary": " As a team manager of an immersive installation project called Riverside Murmurs, which is exploring the intersection of nature and industrialization along the Thames.Responsible for the conceptualization, 3D scanning and interactive design using Touch Designer.",
-      "highlights": ["3D MODELLING"]
+      "highlights": ["3D modelling"]
     },
     {
       "name": "Long Museum",
@@ -48,7 +48,7 @@
       "startDate": "2022-07-01",
       "endDate": "2022-08-21",
       "summary": " Participated in installing of the SKP Dior VIP salon in Beijing and assisted in completing project approvals and follow up.",
-      "highlights": ["curation"]
+      "highlights": ["Curation"]
     },
     {
       "name": "Tianyi Conference & Exhibition Co., Ltd.",
@@ -57,7 +57,25 @@
       "startDate": "2020-06-12",
       "endDate": "2020-09-23",
       "summary": " Assisted with all visual design for the first China International Cultural Tourism Expo.Assisted in the poster design for the launch of the General Meeting of the Shandong Cultural Industry Development Association.Participated in the website design and promotion posters design",
-      "highlights": ["curation"]
+      "highlights": ["Curation"]
+    },
+    {
+      "name": "Survey of Urban Rights and Practice of Social Space Research Group",
+      "position": "Project Member ",
+      "url": "",
+      "startDate": "2019-09-12",
+      "endDate": "2024-09-23",
+      "summary": "Participating in the drawing of humanistic map murals. Responsible for the creation of a community complex shared space in Jinniu District Government of Chengdu.",
+      "highlights": ["Member"]
+     },
+    {
+      "name": "Alipay's Poverty Alleviation Project in Pingwu County",
+      "position": "Group Member ",
+      "url": "",
+      "startDate": "2018-08-23",
+      "endDate": "2018-11-23",
+      "summary": "Responsible for interviewing residents and product design.",
+      "highlights": ["Member"]
     }
   ],
   "volunteer": [],
