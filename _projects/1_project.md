@@ -4,7 +4,7 @@ title: Gonsis
 description: The practice of chuma is a witchcraft culturein northern China. Chuma in which animalspirits inhabit humans to help them tell fortunes and thus increase their spiritual power. The possessed people are mostlyfound in backward towns in China. She tells people the fate of everyone in thecounty in an obscure dialect in a dilapidated hut.
 img: assets/img/(1)gnosis/Front.jpg
 importance: 1
-category: portforlio
+category: portfolio
 related_publications: false
 ---
 This project can also be seen in <a href='https://www.youtube.com/embed/BU9qfxo5Q_c'>Gonsis</a>.
